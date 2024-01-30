@@ -46,7 +46,7 @@ function App() {
   return (
     <> 
     {/* <BrowserRouter> */}
-    <Navbar title="TextUtils" mode={mode} about="About" toggleMode={toggleMode} />
+    <Navbar title="TextUtils" mode={mode} toggleMode={toggleMode} />
    
     <Alert alert={alert} />
     <TextForm title="Enter text to Analyze" mode={mode} showalert={showalert}/>
