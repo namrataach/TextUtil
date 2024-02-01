@@ -1,5 +1,5 @@
 # TextUtil
-TextUtil is a simple website to modify your text like Encode to Encode to Base 64, Decode back, Remove extra spaces, Convert To Uppercase, Convert To Lowercase, Clear Text, Copy and Speak the text and finally to count the number of words and characters and time time taken to read the text.
+TextUtil is a simple website to modify your text like to Encode to Base 64, Decode back, Remove extra spaces, Convert To Uppercase, Convert To Lowercase, Clear Text, Copy and Speak the text and finally to count the number of words and characters and time time taken to read the text.
 
 A tool for analyzing text data in ReactJs Based Application
 
