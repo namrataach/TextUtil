@@ -5,7 +5,7 @@ A tool for analyzing text data in ReactJs Based Application
 
 
 Try here: [Click here to visit the website!](https://namrataach.github.io/TextUtil/).
-#
+##
 # Features
 
 Change uppercase text to lowercase.
@@ -26,7 +26,7 @@ Listen to your entered text.
 
 Last but not the least, get the count of words and characters in your text.
 
-#
+##
 # Built Using
 
 REACTJS
@@ -39,7 +39,7 @@ JAVASRIPT
 
 BOOTSTRAP
 
-#
+##
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -47,3 +47,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 Thank You!
+#
