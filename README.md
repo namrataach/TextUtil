@@ -1,6 +1,10 @@
-# Getting Started with Create React App
-TextUtils is a text to audio converter and a text utility which can be used to manipulate your text in the way you want.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# TextUtil
+TextUtil is a simple website to modify your text like Encode to Encode to Base 64, Decode back, Remove extra spaces, Convert To Uppercase, Convert To Lowercase, Clear Text, Copy and Speak the text and finally to count the number of words and characters and time time taken to read the text.
+
+A tool for analyzing text data in ReactJs Based Application
+
+# Check the Website
+[Create React App](https://namrataach.github.io/TextUtil/).
 
 ## Available Scripts
 
