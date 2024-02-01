@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+TextUtils is a text to audio converter and a text utility which can be used to manipulate your text in the way you want.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
