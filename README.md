@@ -4,7 +4,7 @@ TextUtil is a simple website to modify your text like to Encode to Base 64, Deco
 A tool for analyzing text data in ReactJs Based Application
 
 
-[Click here to visit the website!](https://namrataach.github.io/TextUtil/).
+Try it out here: [Click here to visit the website!](https://namrataach.github.io/TextUtil/).
 ##
 # Features
 
